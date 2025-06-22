@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: Copyright (c) 2025 Madison Nicole Goodwin https://github.com/NicoleDev021
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Contributing to This Project
 
 Thank you for your interest in contributing! This is a simple, personal, public project. Contributions are welcome and appreciated.
