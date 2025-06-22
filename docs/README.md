@@ -14,7 +14,7 @@ This repository serves as a template for correctly complying with Creative Commo
 
 **Source code** in this repository is licensed under the [GNU General Public License v3.0 or later (GPL-3.0-or-later)](https://www.gnu.org/licenses/gpl-3.0.html).
 
-**Documentation** (including the README and all files in the `docs/` directory) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+**Documentation** (including the README, all files in the `docs/` directory, and all files in the `.github` directory) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 For code files, you may see the following SPDX identifier at the top:
 ```
