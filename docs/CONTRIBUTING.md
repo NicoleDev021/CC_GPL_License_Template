@@ -34,7 +34,7 @@ If you discover a security vulnerability, please refer to the [SECURITY.md](./SE
 
 ## Code of Conduct
 
-Please be respectful and considerate in your communications and contributions. By contributing, you agree to abide by the [Code of Conduct](./docs/CODE_OF_CONDUCT.md).
+Please be respectful and considerate in your communications and contributions. By contributing, you agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
 
