@@ -18,7 +18,7 @@ SPDX-License-Identifier: CC-BY-4.0
 If you discover a security vulnerability in this project, please help keep the community safe by reporting it.
 
 - **Preferred Method:**  
-  Open a new [GitHub Issue](../../../issues/new?template=bug_report.md) with the label ![security](https://img.shields.io/badge/security-ac1401?style=flat&labelColor=ac1401&color=ac1401). Please provide as much detail as possible while omitting sensitive exploit details from the public issue body. If needed, you can request further private discussion in your issue.
+  Open a new [GitHub Issue](../../../issues/new?template=security_report.md) with the label ![security](https://img.shields.io/badge/security-ac1401?style=flat&labelColor=ac1401&color=ac1401). Please provide as much detail as possible while omitting sensitive exploit details from the public issue body. If needed, you can request further private discussion in your issue.
 
 - **Alternative:**  
   If you do not wish to disclose details publicly, please mention in your issue that you'd like to provide more information privately. A project maintainer will reach out to coordinate a private discussion.
