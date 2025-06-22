@@ -28,6 +28,10 @@ Thank you for your interest in contributing! This is a simple, personal, public 
 - Comment your code where necessary.
 - Try to follow any conventions seen in the existing code.
 
+## Security
+
+If you discover a security vulnerability, please refer to the [SECURITY.md](./SECURITY.md) file for information on how to report it responsibly.
+
 ## Code of Conduct
 
 Please be respectful and considerate in your communications and contributions. By contributing, you agree to abide by the [Code of Conduct](./docs/CODE_OF_CONDUCT.md).
